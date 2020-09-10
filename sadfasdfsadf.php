@@ -1,1 +1,2 @@
-asdfsad dsf
+<?php 
+mysqli_close();
